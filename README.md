@@ -1,7 +1,7 @@
 
 # Meals app
 
-## A flutter application that shows different categories of meals.
+## A flutter application that shows different categories of meals in beautiful UI.
 
 &ensp;
 
